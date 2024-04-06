@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cassert>
-#include "LAB3PhoneBook.cpp" // Include the header file for your PhoneBook class
+#include "PhoneBook.cpp" // Include the header file for your PhoneBook class
 
 int failed_tests = 0;
 
